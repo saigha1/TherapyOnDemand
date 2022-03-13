@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+.navigation{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  background-color: #80ED99;
+  color:#FFF;
+}
+.logo{
+  float:left;
+  margin-left: 20px;
+}
+ul{
+  list-style:none;  
+}
+li{
+   display: inline;
+  margin-right: 10px;
+}
+.showcase{
+  display: flex;
+  background:#fff;
+  justify-content:space-between;
+}
